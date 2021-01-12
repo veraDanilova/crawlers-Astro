@@ -13,10 +13,10 @@ datefinder (pip install datefinder)
 
 ==RUN==
 
-bash: enter the folder "astro/astro/spiders" where the script astrospider.py is contained.
+bash: enter the folder "/astro/spiders" where the script astrospider.py is contained.
 Run the following command: "python astrospider.py" to run the spider once a day at the same time, at this hour
 
 ==OUTPUT==
 
-folder astro/crawling_results
+folder /crawling_results
 
