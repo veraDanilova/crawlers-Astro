@@ -1,0 +1,3 @@
+website		object		date		entry
+'ooruri.kusastro.kyoto-u.ac.jp/': 		V1239 Her		['2020-07-31T21:15:36']		[vsnet-alert 24492] V1239 Her outburst
+

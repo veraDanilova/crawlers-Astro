@@ -1,0 +1,4 @@
+website		object		date		min_mag		max_mag
+'filtergraph.com'		[b'VV Pup']		2020-12-19		b'19.6 V'		b'13.9 V'
+'filtergraph.com'		[b'UZ For']		2020-03-22		b'20.9 V'		b'17.0 V'
+'filtergraph.com'		[b'V2301 Oph']		2020-10-18		b'22.0 V'		b'14.7 V'
